@@ -9,6 +9,7 @@
 буду благодарен, если порекомендуете статьи, где это просто и
 быстро описанно 
 '''
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 import pandas as pd
